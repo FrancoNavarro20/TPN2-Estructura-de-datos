@@ -1,0 +1,242 @@
+[
+  {
+    "codigo": "L001",
+    "titulo": "Fundación",
+    "autor": "Isaac Asimov",
+    "categoria": "Ciencia ficción",
+    "anio": 1951,
+    "cantidad": 3
+  },
+  {
+    "codigo": "L002",
+    "titulo": "Neuromante",
+    "autor": "William Gibson",
+    "categoria": "Ciencia ficción",
+    "anio": 1984,
+    "cantidad": 2
+  },
+  {
+    "codigo": "L003",
+    "titulo": "Fahrenheit 451",
+    "autor": "Ray Bradbury",
+    "categoria": "Ciencia ficción",
+    "anio": 1953,
+    "cantidad": 4
+  },
+  {
+    "codigo": "L004",
+    "titulo": "El nombre de la rosa",
+    "autor": "Umberto Eco",
+    "categoria": "Novela histórica",
+    "anio": 1980,
+    "cantidad": 2
+  },
+  {
+    "codigo": "L005",
+    "titulo": "Memorias de Adriano",
+    "autor": "Marguerite Yourcenar",
+    "categoria": "Novela histórica",
+    "anio": 1951,
+    "cantidad": 1
+  },
+  {
+    "codigo": "L006",
+    "titulo": "Los pilares de la Tierra",
+    "autor": "Ken Follett",
+    "categoria": "Novela histórica",
+    "anio": 1989,
+    "cantidad": 3
+  },
+  {
+    "codigo": "L007",
+    "titulo": "Veinte poemas de amor y una canción desesperada",
+    "autor": "Pablo Neruda",
+    "categoria": "Poesía",
+    "anio": 1924,
+    "cantidad": 5
+  },
+  {
+    "codigo": "L008",
+    "titulo": "Romancero gitano",
+    "autor": "Federico García Lorca",
+    "categoria": "Poesía",
+    "anio": 1928,
+    "cantidad": 3
+  },
+  {
+    "codigo": "L009",
+    "titulo": "Hojas de hierba",
+    "autor": "Walt Whitman",
+    "categoria": "Poesía",
+    "anio": 1855,
+    "cantidad": 2
+  },
+  {
+    "codigo": "L010",
+    "titulo": "Ficciones",
+    "autor": "Jorge Luis Borges",
+    "categoria": "Cuento",
+    "anio": 1944,
+    "cantidad": 4
+  },
+  {
+    "codigo": "L011",
+    "titulo": "El Aleph",
+    "autor": "Jorge Luis Borges",
+    "categoria": "Cuento",
+    "anio": 1949,
+    "cantidad": 3
+  },
+  {
+    "codigo": "L012",
+    "titulo": "Bestiario",
+    "autor": "Julio Cortázar",
+    "categoria": "Cuento",
+    "anio": 1951,
+    "cantidad": 2
+  },
+  {
+    "codigo": "L013",
+    "titulo": "Cuentos de la selva",
+    "autor": "Horacio Quiroga",
+    "categoria": "Cuento",
+    "anio": 1918,
+    "cantidad": 0
+  },
+  {
+    "codigo": "L014",
+    "titulo": "Cien años de soledad",
+    "autor": "Gabriel García Márquez",
+    "categoria": "Ficción",
+    "anio": 1967,
+    "cantidad": 5
+  },
+  {
+    "codigo": "L015",
+    "titulo": "Rayuela",
+    "autor": "Julio Cortázar",
+    "categoria": "Ficción",
+    "anio": 1963,
+    "cantidad": 3
+  },
+  {
+    "codigo": "L016",
+    "titulo": "Don Quijote de la Mancha",
+    "autor": "Miguel de Cervantes",
+    "categoria": "Ficción",
+    "anio": 1605,
+    "cantidad": 4
+  },
+  {
+    "codigo": "L017",
+    "titulo": "Clean Code",
+    "autor": "Robert C. Martin",
+    "categoria": "Programación",
+    "anio": 2008,
+    "cantidad": 3
+  },
+  {
+    "codigo": "L018",
+    "titulo": "Introduction to Algorithms",
+    "autor": "Thomas H. Cormen",
+    "categoria": "Programación",
+    "anio": 1990,
+    "cantidad": 2
+  },
+  {
+    "codigo": "L019",
+    "titulo": "Design Patterns",
+    "autor": "Erich Gamma",
+    "categoria": "Programación",
+    "anio": 1994,
+    "cantidad": 1
+  },
+  {
+    "codigo": "L020",
+    "titulo": "The Pragmatic Programmer",
+    "autor": "Andrew Hunt",
+    "categoria": "Programación",
+    "anio": 1999,
+    "cantidad": 2
+  },
+  {
+    "codigo": "L021",
+    "titulo": "Cálculo",
+    "autor": "James Stewart",
+    "categoria": "Matemática",
+    "anio": 1987,
+    "cantidad": 4
+  },
+  {
+    "codigo": "L022",
+    "titulo": "Álgebra lineal y sus aplicaciones",
+    "autor": "David C. Lay",
+    "categoria": "Matemática",
+    "anio": 1994,
+    "cantidad": 3
+  },
+  {
+    "codigo": "L023",
+    "titulo": "Matemática discreta y sus aplicaciones",
+    "autor": "Kenneth H. Rosen",
+    "categoria": "Matemática",
+    "anio": 1988,
+    "cantidad": 0
+  },
+  {
+    "codigo": "L024",
+    "titulo": "Fundamentos de bases de datos",
+    "autor": "Abraham Silberschatz",
+    "categoria": "Bases de datos",
+    "anio": 2002,
+    "cantidad": 3
+  },
+  {
+    "codigo": "L025",
+    "titulo": "SQL en 10 minutos",
+    "autor": "Ben Forta",
+    "categoria": "Bases de datos",
+    "anio": 2004,
+    "cantidad": 5
+  },
+  {
+    "codigo": "L026",
+    "titulo": "Diseño de bases de datos relacionales",
+    "autor": "C. J. Date",
+    "categoria": "Bases de datos",
+    "anio": 2000,
+    "cantidad": 2
+  },
+  {
+    "codigo": "L027",
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "categoria": "Ciencia ficción",
+    "anio": 1949,
+    "cantidad": 4
+  },
+  {
+    "codigo": "L028",
+    "titulo": "El cuento de la criada",
+    "autor": "Margaret Atwood",
+    "categoria": "Ciencia ficción",
+    "anio": 1985,
+    "cantidad": 2
+  },
+  {
+    "codigo": "L029",
+    "titulo": "Antología poética",
+    "autor": "Mario Benedetti",
+    "categoria": "Poesía",
+    "anio": 1984,
+    "cantidad": 3
+  },
+  {
+    "codigo": "L030",
+    "titulo": "Python Crash Course",
+    "autor": "Eric Matthes",
+    "categoria": "Programación",
+    "anio": 2015,
+    "cantidad": 6
+  }
+]
